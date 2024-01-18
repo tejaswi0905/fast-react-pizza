@@ -1,12 +1,12 @@
 function App(): JSX.Element {
-  return <div>Hello Vite Fuck youuuuuuuuu!</div>;
+  return <div>Hello........ Boobies</div>;
 }
 
 export default App;
 
 //Gather application requirements and features
 //   Users can order one or more pizzas from a menu
-//   Requires no user accounts and no login(no auth), users just input their names before using the app
+//   Requires no user accounts and no login(no auth), user just input their name,Phone number and Address before using the app
 //   The pizza menu can change, so it should be loadde from an API(since it is an front end only project, cosider this part done.)
 //   Users can add multiple pizzas to a cart before ordering
 //   Ordering requires just the user's name, phone number and address,
@@ -42,5 +42,6 @@ export default App;
 //Decide on white libraries to use
 //  Routing:- React Router
 //  Styling:- Tailwind css
-//  Remote State Management:- Reat Router. New way of fetching data right inside ReactRouter, "render as you fetch"
+//  Remote State Management:- Reat Router. New way of fetching data right inside ReactRouter,    "render as you fetch"
+
 //  UI State Management:- Recoil. State is fairly complex so recoil has many advantages.
